@@ -124,7 +124,7 @@ import sys
 
 dbgTraceSched = False        # Determine whether scheduling should be traced.
 
-sys.path.append('/home/maria/Documents/Emergically/Emergic')
+sys.path.append('/insert path here)
 
 from entity  import Entity
 from network import Network
